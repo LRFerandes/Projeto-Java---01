@@ -1,2 +1,3 @@
 # Projeto Java - 01
- Meu primeiro projeto em java ,feito em equipe, para o curso de análise e desenvolvimento de Sistemas. 
+Agenda de filmes e séries. 
+Meu primeiro projeto em java ,feito em equipe, para a disciplina de programação2(segundo periodo) do curso de análise e Desenvolvimento de Sistemas. 
